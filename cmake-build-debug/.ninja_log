@@ -1,0 +1,8 @@
+# ninja log v5
+1	477	6892723553938927	Judo_Qt_autogen/timestamp	972a3098f183cd8c
+1	477	6892723553938927	Judo_Qt_autogen/mocs_compilation.cpp	972a3098f183cd8c
+1	477	6892723553938927	C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/Judo_Qt_autogen/timestamp	972a3098f183cd8c
+1	477	6892723553938927	C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/Judo_Qt_autogen/mocs_compilation.cpp	972a3098f183cd8c
+478	618	6892723557078925	CMakeFiles/Judo_Qt.dir/Judo_Qt_autogen/mocs_compilation.cpp.obj	b238b423addd83b0
+481	4397	6892723594855456	CMakeFiles/Judo_Qt.dir/main.cpp.obj	246a690d4947ff94
+4401	5730	6892723600430372	Judo_Qt.exe	fbe409257b615604

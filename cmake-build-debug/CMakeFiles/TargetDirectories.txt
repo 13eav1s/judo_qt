@@ -1,0 +1,5 @@
+C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/CMakeFiles/Judo_Qt.dir
+C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/CMakeFiles/Judo_Qt_autogen_timestamp_deps.dir
+C:/Users/krasn/CLionProjects/Judo_Qt/cmake-build-debug/CMakeFiles/Judo_Qt_autogen.dir
